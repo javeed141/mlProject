@@ -1,4 +1,7 @@
 numpy 
 pandas 
 seaborn
+# catboost
+xgboost
+dill
 -e .
